@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity2</string>
+    <string name="pasta" />
+    <string name="pizza_image" />
+</resources>
